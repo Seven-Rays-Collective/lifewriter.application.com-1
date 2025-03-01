@@ -4,12 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
                       http://maven.apache.org/xsd/settings-1.0.0.xsd">
 
-  <activeProfiles>zachwylde00@gmail.com
+  <activeProfiles>aaronchernault1983@gmail.com
     <activeProfile>github</activeProfile>
   </activeProfiles>
 
   <profiles>
-    <profile>zachwylde00
+    <profile>Seven-Rays-Collective
       <id>github</id>
       <repositories>lifewriter.application.com
         <repository>
@@ -50,7 +50,7 @@ using workers/A.I./dependabot, GitHub publishes the package to an existing repos
 <distributionManagement>
    <repository>
      <id>github.com/zachwylde00/lifewriter.application.com</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
+     <name>GitHub Seven-Rays-Collective Apache Maven Packages</name>
      <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
    https://zachwylde00.github.io/lifewriter.application.com</repository>
 </distributionManagement>
